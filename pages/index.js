@@ -5,10 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
-          rel="stylesheet"
-        />
+        <title>Day 1 | UiDesignDaily</title>
       </Head>
       <div className="flex flex-col items-center justify-center font-poppins bg-[#EEF2F9] h-[100vh] w-[100vw]">
         <div className="bg-white rounded-lg shadow-bgShadow p-8 shadow-[#B3C1D9] flex flex-col md:flex-row">
